@@ -1,0 +1,7 @@
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\bin\Debug\UsbInjectionMonitor.exe
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\bin\Debug\UsbInjectionMonitor.pdb
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\obj\Debug\UsbInjectionMonitor.csproj.AssemblyReference.cache
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\obj\Debug\UsbInjectionMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\obj\Debug\UsbInjectionMonitor.csproj.CoreCompileInputs.cache
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\obj\Debug\UsbInjectionMonitor.exe
+C:\Users\vuuud\RiderProjects\ProgramySzeman\UsbInjectionMonitor\obj\Debug\UsbInjectionMonitor.pdb
